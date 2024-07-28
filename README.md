@@ -1,0 +1,1 @@
+The algorithm is able to search for matching strings containing up to 5 given string pattern inputs without transforming an encoded data back to its original form. The time and space complexity of the program is linear with the input string length and number of matches, ensuring the scalability of the program.
